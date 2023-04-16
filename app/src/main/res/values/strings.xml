@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeepThought</string>
+    <string name="des_img_logo">logo of app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explorer_txt">Explorer</string>
+    <string name="dashboard_txt">Dashboard</string>
+    <string name="social_scorecard_txt">Social Scorecard</string>
+</resources>
